@@ -3,6 +3,7 @@
 cat  
 curl  
 jq  
+sed  
   
 ## Python
 sys  
